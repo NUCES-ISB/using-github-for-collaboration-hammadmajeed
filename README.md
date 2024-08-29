@@ -20,3 +20,5 @@ Define Branch to use
 
 Push the local changes to the remote 
 `git push --setup-stream origin main` 
+
+Added a new mod operation for further merging into the main branch
