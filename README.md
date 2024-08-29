@@ -9,3 +9,5 @@ install all the dependencies
 
 Test the application
 `pytest test.py`
+
+Setup remote github repo (which is already created in the classroom)
